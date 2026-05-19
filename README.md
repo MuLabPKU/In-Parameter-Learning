@@ -4,6 +4,10 @@
   <a href="https://github.com/MuLabPKU/In-Parameter-Learning/blob/main/Beyond_longer_context.pdf">📄 Paper</a>
 </p>
 
+<p align="center">
+  <img src="figures/figure2.png" width="600" alt="ICL vs IPL comparison"/>
+</p>
+
 ## Introduction
 
 This is the official repository for our position paper:
@@ -15,6 +19,14 @@ This is the official repository for our position paper:
 > In this position paper, we argue that existing in-context mechanisms are **insufficient** for lifelong AI, and advocate **In-Parameter Learning (IPL)** as a necessary complement to In-Context Learning (ICL) — referring to mechanisms that allow a deployed model to continually and safely update its parameters during use.
 >
 > Our central claim is that future lifelong AI systems should be built around a **hybrid paradigm**: in-context learning for immediate, provisional, and reversible information, and in-parameter learning for durable, cumulative, and generalizable growth.
+
+## Publication Trends
+
+<p align="center">
+  <img src="figures/neurips_chart.svg" width="720" alt="Publication trends 2018–2025"/>
+</p>
+
+Publication trends from 2018 to 2025 (OpenAlex). Long-context modeling and context management have grown rapidly into major LLM research directions, while continual In-Parameter Learning remains an emerging area.
 
 ## Key Arguments
 
