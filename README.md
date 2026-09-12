@@ -5,6 +5,20 @@
 </p>
 
 <p align="center">
+  <img src="assets/affiliations/norizon-ai.png" height="42" alt="Norizon AI"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/affiliations/peking-university.svg" height="54" alt="Peking University"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/affiliations/mit.svg" height="42" alt="Massachusetts Institute of Technology"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/affiliations/tencent.svg" height="38" alt="Tencent Youtu Lab"/>
+</p>
+
+<p align="center">
+  <sub>Norizon AI &nbsp;·&nbsp; Peking University &nbsp;·&nbsp; Massachusetts Institute of Technology &nbsp;·&nbsp; Tencent Youtu Lab</sub>
+</p>
+
+<p align="center">
   <img src="figures/figure2.png" width="600" alt="ICL vs IPL comparison"/>
 </p>
 
