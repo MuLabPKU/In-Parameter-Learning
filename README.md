@@ -39,6 +39,6 @@ Publication trends from 2018 to 2025 (OpenAlex). Long-context modeling and conte
 
 Yiding Wang\*, Haotong Yang\*, Pingzhi Tang\*, Shijia Kang\*, Cai Zhou, Chenglin Zhu, Fan Jiang, Fanxu Meng, Juntong Wang, Libin Chen, Tianyi Guan, Xiyuan Wang, Xuejie Liu, Yanbo Wang, Yansheng Mao, Yewei Liu, Yi Hu, Yufei Xu, Yuxuan Wang, Zian Li, Ziyuan He, **Xing Sun**†, **Muhan Zhang**†‡
 
-¹Peking University &nbsp; ²Massachusetts Institute of Technology &nbsp; ³Tencent Youtu Lab
+Norizon AI &nbsp; Peking University &nbsp; Massachusetts Institute of Technology &nbsp; Tencent Youtu Lab
 
 \* Equal contribution. † Senior authors. ‡ Correspondence: muhan@pku.edu.cn
